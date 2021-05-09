@@ -1,12 +1,12 @@
 import React from "react";
 
-const style={
+const style = {
   backgroundColor: "#ffffe0",
   width: "400px",
   minHeight: "200px",
   padding: "8px",
   margin: "8px",
-  borderRadius: "8px"  
+  borderRadius: "8px"
 };
 
 export const CompleteTodos = (props) => {
